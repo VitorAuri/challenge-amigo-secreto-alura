@@ -8,4 +8,5 @@
 - Ao clicar no botão "Sortear", um amigo será sorteado aleatoriamente.
 - É possível continuar sorteando outros amigos até que todos sejam sorteados.
 
-![Preview do site](readmeImagem.png.png)
+---
+![Preview do site](readmeImagem.png)
