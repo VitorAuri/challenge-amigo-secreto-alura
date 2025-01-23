@@ -7,3 +7,5 @@
 - O site é um sorteador de amigo secreto, onde você pode inserir os nomes de seus amigos em uma lista.
 - Ao clicar no botão "Sortear", um amigo será sorteado aleatoriamente.
 - É possível continuar sorteando outros amigos até que todos sejam sorteados.
+
+![Preview do site](readmeImagem.png.png)
